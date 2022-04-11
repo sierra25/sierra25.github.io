@@ -345,7 +345,12 @@ h1 {
   margin: 4px;
 }
 
-
+#about p{
+	
+		text-indent: 50px;
+		color:white;
+	
+}
 
 
 
