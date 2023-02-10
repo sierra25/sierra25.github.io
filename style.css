@@ -409,7 +409,7 @@ h1 {
 /*making project boxes the same size*/
 .card {
 	position: relative;
-	width: 350px;
+	width: 390px;
 	height: 565px;
 	margin-left: auto;
 	margin-right: auto;
@@ -418,16 +418,32 @@ h1 {
 	-moz-perspective: 2000px;
 	perspective: 2000px;
 	cursor: pointer;
+
+
+
+  }
+ /*making images less blurry*/ 
+.img-responsive{
+	
+	image-rendering: -webkit-optimize-contrast;	
   }
   
+ 
+
+
+
+
   .card img {
-	width: calc(350px - 10px);
-	height: calc(565px - 45px);
+	width: calc(390px - 10px);
+	height: calc(555px - 45px);
 	border-top-left-radius: 6px;
 	border-top-right-radius: 6px;
 	border-style: solid;
 	border-color: rgba(0,0,0,0.16);
 	border-bottom-width: 1px;
+	
+  
+
   }
  /*adding hover effect to cards*/  
   .card_front, .card_back {

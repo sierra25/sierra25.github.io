@@ -2,15 +2,7 @@ $(document).ready(function() {
 
 /*project card dynamically rendered data*/
 
-  var projectData = [ {
-      title: 'Garden Weather',
-      text: '<p>Built a garden weather app that when given the user input of location tells the user the temperature outside and whether the temperature is within the range that a specific crop can handle. Displays a list of common garden crops and the temperature ranges that they can handle alongside a dynamically rendered green check or red x mark. Created dynamic messages telling users whether a certain plant is happy based on the current weather temperature for the user’s area.</p>',
-
-      image: ['assets/projectsnapshots/GardenWeather.PNG'],
-      link: ['https://sierra25.github.io/Garden-Weather-App/'],
-      readMore: ['https://github.com/sierra25/Garden-Weather-App']
-
-    }, {
+  var projectData = [  {
       title: 'Sticky Notes',
       text: '<p>This is a simple sticky notes app. It allows the user to write the  title and content of their notes in the input fields and press the add button in order to create the note. Each note is saved in local storage and is then displayed on the screen. In order to clear a note the user can press the delete button. I used Javascript, HTML, and CSS in this project.</p>',
 
@@ -18,7 +10,18 @@ $(document).ready(function() {
       link: ['https://sierra25.github.io/Notes-App/'],
       readMore: ['https://github.com/sierra25/Notes-App/']
 
-    }, {
+    },
+    {
+      title: 'Garden Weather',
+      text: '<p>Built a garden weather app that when given the user input of location tells the user the temperature outside and whether the temperature is within the range that a specific crop can handle. Displays a list of common garden crops and the temperature ranges that they can handle alongside a dynamically rendered green check or red x mark. Created dynamic messages telling users whether a certain plant is happy based on the current weather temperature for the user’s area.</p>',
+
+      image: ['assets/projectsnapshots/GardenWeather.PNG'],
+      link: ['https://sierra25.github.io/Garden-Weather-App/'],
+      readMore: ['https://github.com/sierra25/Garden-Weather-App']
+
+    }, 
+    
+    {
       title: 'Falling Petals',
       text: '<p>Made a kid friendly version of the game “Hangman”. My aim was for the game to be created as an educational tool for teachers to use in a noncompetitive, classroom setting. In this iteration of the game players have more opportunity to correctly guess the word in comparison to a regular game of Hangman.I used Javascript, HTML, and CSS in this project.</p>',
 
@@ -37,7 +40,7 @@ $(document).ready(function() {
 
     },
     {
-      title: 'Movie Database',
+      title: 'Sortable Movie Database',
       text: '<p>This is a Movie Database. There is login validation functionality for users. It allows the user to sort movies in the database based on title, year, oldest, most recent, or by keywords. When a user clicks on a movie, other information such as Year, Cast and Genres is displayed. The user can specify the number of movies displayed on a page. I used Python, Flask, and SQLite in this project.</p>',
 
       image: ['assets/projectsnapshots/movie_app_snip.PNG'],
