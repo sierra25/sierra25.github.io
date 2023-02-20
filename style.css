@@ -409,8 +409,8 @@ h1 {
 /*making project boxes the same size*/
 .card {
 	position: relative;
-	width: 390px;
-	height: 565px;
+	width: 330px;
+	height: 550px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 20px;
@@ -434,8 +434,8 @@ h1 {
 
 
   .card img {
-	width: calc(390px - 10px);
-	height: calc(555px - 45px);
+	width: calc(330px - 10px);
+	height: calc(545px - 45px);
 	border-top-left-radius: 6px;
 	border-top-right-radius: 6px;
 	border-style: solid;
