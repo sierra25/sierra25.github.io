@@ -14,7 +14,7 @@ $(document).ready(function() {
     },
     {
       title: 'Sticky Notes',
-      text: '<p>This is a simple sticky notes app. It allows the user to write the  title and content of their notes in the input fields and press the add button in order to create the note. Each note is saved in local storage and is then displayed on the screen. In order to clear a note the user can press the delete button. I used Javascript, HTML, and CSS in this project.</p>',
+      text: '<p>This is a sticky notes app. It allows the user to write the title and description of their task in the content of their sticky notes using the input fields in the UI form. Each note is saved in local storage and is then displayed on the screen. To create or clear a note the user can press the add or delete buttons. The input field contents will automatically clear for users to input new note content when users click their mouse inside the input fields. The app also allows users to change the background color of the page. It is responsive on all devices. I used Javascript, HTML, and CSS in this project.</p>',
 
       image: ['assets/projectsnapshots/notes-app-snip.PNG'],
       link: ['https://sierra25.github.io/Notes-App/'],
