@@ -235,10 +235,16 @@ h6 { font-size: 16px;}
 	justify-content: space-evenly;
 	background:#000 url(assets/stars.png) repeat top center;
 	z-index:0;
+	
 }
 
 
-
+.skill-list{
+	
+	padding:10px;
+	width:100%;
+	overflow:scroll;
+}
 
 .social-links{
 	display: grid;
