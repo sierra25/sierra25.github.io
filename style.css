@@ -434,7 +434,7 @@ h1 {
 		width: 100%;
 		
 		}
-		
+/*Fixed project card overlap and responsiveness*/		
 		@media(max-width: 768px){
 		.card{
 		width: 10rem;
@@ -459,9 +459,6 @@ h1 {
   
 
 
-  
-
-
   .card img {
 	
 	width: calc(330px - 10px);
@@ -475,7 +472,7 @@ h1 {
   
 
   }
-
+/*Fixed project card overlap and responsiveness*/
   @media(max-width: 768px){
 	.card img{
 	width: 10rem;
@@ -524,6 +521,7 @@ h1 {
 	-webkit-transform: rotateY(179deg);
 	-ms-transform: rotateY(179deg);
 	transform: rotateY(179deg);
+	overflow:scroll;
   }
   
   .card.effect_click.flipped .card_front {
