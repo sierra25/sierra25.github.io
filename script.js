@@ -21,16 +21,7 @@ $(document).ready(function() {
       readMore: ['https://github.com/sierra25/Notes-App/']
 
     }, 
-    
     {
-      title: 'Falling Petals',
-      text: '<p>Made a kid friendly version of the game “Hangman”. My aim was for the game to be created as an educational tool for teachers to use in a noncompetitive, classroom setting. In this iteration of the game players have more opportunity to correctly guess the word in comparison to a regular game of Hangman.I used Javascript, HTML, and CSS in this project.</p>',
-
-      image: ['assets/projectsnapshots/HangmanGameSnapShot.png'],
-      link: ['https://sierra25.github.io/Flower-Game/'],
-      readMore: ['assets/projectReadMe/Falling Petals Game Readme.pdf']
-
-    }, {
 
       title: 'DayPlanner',
       text: '<p>Created a dynamic user interface people can use to plan out the hours in their day. The app visualizes the hours of the day via a pie chart and time block schedule board. Implemented a useful tool for calculating the hours spent on each task for users interested in building a schedule that is correctly allocating the time available in a twenty four hour day. The schedule has add and delete functionality for each task the user inputs and lets the user know what their current sum of hours is and the hours in the day that they have remaining.</p>',
@@ -40,6 +31,16 @@ $(document).ready(function() {
       readMore: ['https://github.com/sierra25/Dayplanner-3']
 
     },
+    
+    {
+      title: 'Falling Petals',
+      text: '<p>Made a kid friendly version of the game “Hangman”. My aim was for the game to be created as an educational tool for teachers to use in a noncompetitive, classroom setting. In this iteration of the game players have more opportunity to correctly guess the word in comparison to a regular game of Hangman.I used Javascript, HTML, and CSS in this project.</p>',
+
+      image: ['assets/projectsnapshots/HangmanGameSnapShot.png'],
+      link: ['https://sierra25.github.io/Flower-Game/'],
+      readMore: ['assets/projectReadMe/Falling Petals Game Readme.pdf']
+
+    }, 
     {
       title: 'Sortable Movie Database',
       text: '<p>This is a Movie Database. There is login validation functionality for users. It allows the user to sort movies in the database based on title, year, oldest, most recent, or by keywords. When a user clicks on a movie, other information such as Year, Cast and Genres is displayed. The user can specify the number of movies displayed on a page. I used Python, Flask, and SQLite in this project.</p>',
