@@ -537,3 +537,18 @@ h1 {
 	-ms-transform: rotateY(0deg);
 	transform: rotateY(0deg);
   }
+
+  /*adding cool cursor effect*/
+  .dot {
+	position:absolute;
+	width:30px;
+	height:30px;
+	border-radius:15px;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	background-color: lightblue;
+	left:0;
+	top:0;
+	pointer-events: none;
+	z-index: 5;
+  }
