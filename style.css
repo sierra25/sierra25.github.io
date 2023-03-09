@@ -240,7 +240,6 @@ h6 { font-size: 16px;}
 
 
 .skill-list{
-	padding-right:10px;
 	padding-left:0px;
 	width:100%;
 	overflow:scroll;
@@ -363,8 +362,8 @@ h1 {
   }
   
   .icon {
-	width: 8rem;
-	height: 8rem;
+	width: 6.5rem;
+	height: 6.5rem;
   }
   
   .icon-card {
