@@ -3,6 +3,16 @@ $(document).ready(function() {
 /*project card dynamically rendered data*/
 
   var projectData = [  
+    /*{
+      title: 'Cool Bookstore',
+      text: '<p>Built a bookstore app that using JavaScript, MySQL, Node.js, Express.js, and React.js. It performS CRUD operations and allows usesers to add, delete, and update books from tehre cart. </p>',
+
+      image: ['assets/projectsnapshots/GardenWeather.PNG'],
+      link: ['https://sierra25.github.io/Garden-Weather-App/'],
+      readMore: ['https://github.com/sierra25/Garden-Weather-App']
+
+    },
+    */
     {
       title: 'Garden Weather',
       text: '<p>Built a garden weather app that when given the user input of location tells the user the temperature outside and whether the temperature is within the range that a specific crop can handle. Displays a list of common garden crops and the temperature ranges that they can handle alongside a dynamically rendered green check or red x mark. Created dynamic messages telling users whether a certain plant is happy based on the current weather temperature for the user’s area. I used JavaScript and the OpenWeatherMapAPI.</p>',
