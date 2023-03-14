@@ -12,6 +12,24 @@ $(document).ready(function() {
       readMore: ['https://github.com/sierra25/Garden-Weather-App']
 
     },
+    {
+      title: 'Movie Database',
+      text: '<p>Built a bookstore app that using JavaScript, MySQL, Node.js, Express.js, and React.js. It performS CRUD operations and allows usesers to add, delete, and update books from tehre cart. </p>',
+
+      image: ['assets/projectsnapshots/GardenWeather.PNG'],
+      link: ['https://sierra25.github.io/Garden-Weather-App/'],
+      readMore: ['https://github.com/sierra25/Garden-Weather-App']
+
+    },
+    {
+      title: 'Nearby Cities',
+      text: '<p>Built a bookstore app that using JavaScript, MySQL, Node.js, Express.js, and React.js. It performS CRUD operations and allows usesers to add, delete, and update books from tehre cart. </p>',
+
+      image: ['assets/projectsnapshots/GardenWeather.PNG'],
+      link: ['https://sierra25.github.io/Garden-Weather-App/'],
+      readMore: ['https://github.com/sierra25/Garden-Weather-App']
+
+    },
     */
     {
       title: 'Garden Weather',
