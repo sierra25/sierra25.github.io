@@ -5,7 +5,7 @@ $(document).ready(function() {
   var projectData = [  
     /*{
       title: 'Cool Bookstore',
-      text: '<p>Built a bookstore app that using JavaScript, MySQL, Node.js, Express.js, and React.js. It performS CRUD operations and allows usesers to add, delete, and update books from tehre cart. </p>',
+      text: '<p>Built a bookstore app that using JavaScript, MySQL, Node.js, Express.js, and React.js. It performS CRUD operations and allows usesers to add, delete, and update books from thier cart. Made a useful book management system.</p>',
 
       image: ['assets/projectsnapshots/GardenWeather.PNG'],
       link: ['https://sierra25.github.io/Garden-Weather-App/'],
