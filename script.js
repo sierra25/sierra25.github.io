@@ -5,7 +5,7 @@ $(document).ready(function() {
   var projectData = [  
     /*{
       title: 'Cool Bookstore',
-      text: '<p>Built a bookstore app that using JavaScript, MySQL, Node.js, Express.js, and React.js. It performS CRUD operations and allows usesers to add, delete, and update books from thier cart. Made a useful book management system.</p>',
+      text: '<p>Built a bookstore app using JavaScript, MySQL, Node.js, Express.js, and React.js. It performs CRUD operations and allows users to add, delete, and update books from their cart. Made a useful book management system.</p>',
 
       image: ['assets/projectsnapshots/GardenWeather.PNG'],
       link: ['https://sierra25.github.io/Garden-Weather-App/'],
@@ -14,7 +14,7 @@ $(document).ready(function() {
     },
     {
       title: 'Movie Database',
-      text: '<p>Built a movie app that using JavaScript, MySQL, Node.js, Express.js, and React.js. It performS CRUD operations and allows usesers to add, delete, and update books from tehre cart. </p>',
+      text: '<p>Built a movie app using JavaScript, MySQL, Node.js, Express.js, and React.js. It performs CRUD operations and allows users to search through movies in database. </p>',
 
       image: ['assets/projectsnapshots/GardenWeather.PNG'],
       link: ['https://sierra25.github.io/Garden-Weather-App/'],
@@ -23,7 +23,7 @@ $(document).ready(function() {
     },
     {
       title: 'Nearby Cities',
-      text: '<p>Built a bookstore app that using JavaScript, MySQL, Node.js, Express.js, and React.js. It performS CRUD operations and allows usesers to add, delete, and update books from tehre cart. </p>',
+      text: '<p>Built a map app using JavaScript, MySQL, Node.js, Express.js, and React.js. It performS CRUD operations and allows usesers to search a map and see visualize useful data about the location. </p>',
 
       image: ['assets/projectsnapshots/GardenWeather.PNG'],
       link: ['https://sierra25.github.io/Garden-Weather-App/'],
